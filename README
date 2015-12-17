@@ -7,3 +7,7 @@ Notes:
 Controls:
 -Arrow keys: rotate the scene
 -Left/Right mouse button: zoom in/out
+
+Command-line arguments:
+-enter 'waterfall' for the waterfall demo
+-enter 'funnel' for the funnel demo
