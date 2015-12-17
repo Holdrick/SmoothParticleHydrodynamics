@@ -1,0 +1,9 @@
+Smooth Particle Hydrodynamics
+
+Notes:
+-Uses GLFW and GLM, which aren't included in this repository
+-Can use the Makefile to run on linux
+
+Controls:
+-Arrow keys: rotate the scene
+-Left/Right mouse button: zoom in/out
