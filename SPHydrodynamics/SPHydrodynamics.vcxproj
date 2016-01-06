@@ -81,6 +81,7 @@
   <ItemGroup>
     <ClCompile Include="GOBJ.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="ShaderObject.cpp" />
     <ClCompile Include="SPH.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -89,6 +90,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GOBJ.h" />
+    <ClInclude Include="ShaderObject.h" />
     <ClInclude Include="Particle.h" />
     <ClInclude Include="SPH.h" />
   </ItemGroup>
